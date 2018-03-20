@@ -1,2 +1,4 @@
-*.yml
+#here the file not to push
+
+#config file for my IDE are not needed
 *.idea
